@@ -18,7 +18,7 @@
 - git commit -m ""
 - git push origin main
 
-# More Details
+# More Details (work in progress)
 - pwd (where am i?)
 - cd (change directory)
   - => how to move in & out of folders
