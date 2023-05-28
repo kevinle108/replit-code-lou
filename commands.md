@@ -1,6 +1,6 @@
 # Bash Essential Commands
 - TAB
-- history or UP / DOWN
+- UP / DOWN or history
 
 - pwd
 - ls
@@ -18,7 +18,7 @@
 - git commit -m ""
 - git push origin main
 
-///////////////////////////////////////
+# More Details
 - pwd (where am i?)
 - cd (change directory)
   - => how to move in & out of folders
